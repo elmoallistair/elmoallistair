@@ -1,16 +1,19 @@
-### Hi there 👋
+# -- Under construction --
 
-<!--
-**elmoallistair/elmoallistair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Elmo, im a responsible and receptive student who seek position in Data Analyst and Cloud Solution, creating insights through data analysis using Google Cloud Platform. Currently learning data, cloud and random stuff
 
-Here are some ideas to get you started:
+## Technologies & Tools
+<div id="tools" style="overflow: hidden; display: inline-block;">
+    <img scr="icons/python.svg" width="20px"/>
+    <img src="icons/ubuntu.svg" height="20px" />
+    <img src="icons/python.svg" height="20px" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me
+
+## Github Stats
+<div id="banner" style="overflow: hidden; display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmoallistair&hide=kotlin,html&theme=nord" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elmoallistair&show_icons=true&theme=nord" height="200px" />
+</div>
