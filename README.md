@@ -2,28 +2,32 @@
 
 My name is Elmo, im a responsible and receptive student who seek position in Data Analyst and Cloud Solution, creating insights through data analysis using Google Cloud Platform. Currently learning data, cloud and random stuff
 
-<br>
+[![Repos Badge](https://badges.pufler.dev/repos/elmoallistair)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/elmoallistair)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/elmoallistair)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/elmoallistair)](https://badges.pufler.dev)
 
-## Github Stats
+📫 How to reach me
+
+[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/elmoallistair) 
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elmo-allistair-194b25199)
+[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.elmoallistair@gmail.com)
+
+👨‍💻 My other profiles
+
+[![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/elmoallistair)
+[![Codewars](https://img.shields.io/badge/--dev?label=Codewars&logo=codewars&style=social)](https://www.codewars.com/users/elmoallistair)
+[![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/2d7d54b5646fe8547a05a04b5bdbcafd)
+[![Qwiklabs](https://img.shields.io/badge/--dev?label=Qwiklabs&logo=qwiklabs&style=social)](https://www.qwiklabs.com/public_profiles/3ebcb671-731f-41b0-8145-6da558567d68)
+
+🏆 Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=elmoallistair)](https://github.com/ryo-ma/github-profile-trophy)
+
+:zap: GitHub stats
 
 ![stat](https://github-readme-stats.vercel.app/api?username=elmoallistair&show_icons=true&theme=nord)
 
-<br>
+<!--START_SECTION:activity-->
 
-## Technologies & Tools
-
-<div id="tools" style="overflow: hidden; display: inline-block;">
-    <img style="margin-right: 5px" src="icons/bash.png" width="30px">
-    <img style="margin-right: 5px" src="icons/css.png" width="30px">
-    <img style="margin-right: 5px" src="icons/git.png" width="30px">
-    <img style="margin-right: 5px" src="icons/github.png" width="30px">
-    <img style="margin-right: 5px" src="icons/google-cloud.png" width="30px">
-    <img style="margin-right: 5px" src="icons/html.png" width="30px">
-    <img style="margin-right: 5px" src="icons/jupyter-notebook.png" width="30px">
-    <img style="margin-right: 5px" src="icons/latex.png" width="30px">
-    <img style="margin-right: 5px" src="icons/python.png" width="30px">
-    <img style="margin-right: 5px" src="icons/sql.png" width="30px">
-    <img style="margin-right: 5px" src="icons/ubuntu.png" width="30px">
-    <img style="margin-right: 5px" src="icons/vscode.png" width="30px">
-    <img style="margin-right: 5px" src="icons/windows.png" width="30px">
-</div>
+<!--END_SECTION:activity-->
