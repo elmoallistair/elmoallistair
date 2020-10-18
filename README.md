@@ -56,8 +56,3 @@ My name is Elmo, im a responsible and receptive student who seek position in Dat
 <summary>:zap: Languages</summary>
   <img src="https://wakatime.com/share/@9ab069a4-0617-4090-a4d1-1baff8761284/f60fc92b-8226-4e6e-b6d9-0fb059596b46.svg" width="400px">
 </details>
-
-<details open>
-<summary>:zap: Coding Activity</summary>
-  <img src="https://wakatime.com/share/@9ab069a4-0617-4090-a4d1-1baff8761284/01039e08-286e-461b-8cea-4db57e6619ac.svg" width="500px">
-</details>
