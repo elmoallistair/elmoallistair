@@ -9,7 +9,7 @@ My name is Elmo, im a responsible and receptive student who seek position in Dat
 
 [![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/elmoallistair) 
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/elmoallistair) 
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elmo-allistair-194b25199)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elmoallistair)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.elmoallistair@gmail.com)
 
 👨‍💻 My other profiles
@@ -31,28 +31,29 @@ My name is Elmo, im a responsible and receptive student who seek position in Dat
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
 ![C](https://img.shields.io/badge/-C-333333?style=flat)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat)
+![YAML](https://img.shields.io/badge/-YAML-333333)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)\
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
+![Sublime](https://img.shields.io/badge/-Sublime%20-333333?style=flat&logo=sublime-text)\
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
-![YAML](https://img.shields.io/badge/-YAML-333333)\
+![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
-![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
-![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=sublime-text)
 
 <hr>
 
 ## Statistics
 
-<details open>
+<details close>
 <summary>:zap: GitHub Statistics</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=elmoallistair&show_icons=true&theme=nord" width="400px">
 </details>
 
-<details open>
+<details close>
 <summary>:zap: Languages</summary>
   <img src="https://wakatime.com/share/@9ab069a4-0617-4090-a4d1-1baff8761284/f60fc92b-8226-4e6e-b6d9-0fb059596b46.svg" width="400px">
 </details>
