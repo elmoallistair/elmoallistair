@@ -23,26 +23,23 @@ My name is Elmo, im a responsible and receptive student who seek position in Dat
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-![ChromeOS](https://img.shields.io/badge/-ChromeOS-333333?style=flat&logo=chrome)\
 ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-333333?style=flat&logo=ibm)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)\
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
-![C](https://img.shields.io/badge/-C-333333?style=flat)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat)
-![YAML](https://img.shields.io/badge/-YAML-333333)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)\
+![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c)
+![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
-![Sublime](https://img.shields.io/badge/-Sublime%20-333333?style=flat&logo=sublime-text)\
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)\
+![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
+![Sublime](https://img.shields.io/badge/-Sublime%20-333333?style=flat&logo=sublime-text)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
+![YAML](https://img.shields.io/badge/-YAML-333333)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat)
 
 <hr>
 
