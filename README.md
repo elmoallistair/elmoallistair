@@ -7,9 +7,14 @@ My name is Elmo, im a responsible and receptive student who seek position in Dat
 
 📫 How to reach me
 
-[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/elmoallistair) 
+[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=telegram&style=social)](https://t.me/elmoallistair) 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elmoallistair)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.elmoallistair@gmail.com)
+
+💎 Tips are welcome
+
+![BTC](https://img.shields.io/badge/--btc?label=BTC&logo=bitcoin&style=social) : `bc1q9s8yw06zerm3dt7658tcerykwtpxtgjkfgpmcj`\
+![ETH](https://img.shields.io/badge/--eth?label=ETH&logo=ethereum&style=social) : `0x61459e85A9f5Ef70139EF0DAE50B1B56916A66B9`
 
 <hr>
 
