@@ -13,9 +13,9 @@ My name is Elmo, im a responsible and receptive student who seek position in Dat
 
 💎 Tips are welcome
 
-![BTC](https://img.shields.io/badge/--btc?label=BTC&logo=bitcoin&style=social) : `bc1q9s8yw06zerm3dt7658tcerykwtpxtgjkfgpmcj`\
-![ETH](https://img.shields.io/badge/--eth?label=ETH&logo=ethereum&style=social) : `0x61459e85A9f5Ef70139EF0DAE50B1B56916A66B9`
-
+**BTC** (Bitcoin) : `1DdYiycmRVVJezwvUZSo9qjProoKcVkVyg`\
+**ETH** (ERC-20) : `0xE9d676b2a80CdBC307b57f846fC03d276E841D3a`\
+**Paypal** : `paypal.me/elmoallistair`
 <hr>
 
 <details close>
