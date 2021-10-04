@@ -11,13 +11,6 @@ My name is Elmo, im a responsible and receptive student who seek position in Dat
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elmoallistair)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.elmoallistair@gmail.com)
 
-💎 Tips are welcome
-
-**BTC** (Bitcoin) : `1DdYiycmRVVJezwvUZSo9qjProoKcVkVyg`\
-**ETH** (ERC-20) : `0xE9d676b2a80CdBC307b57f846fC03d276E841D3a`\
-**Paypal** : `paypal.me/elmoallistair`
-<hr>
-
 <details close>
 <summary>:zap: GitHub Statistics</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=elmoallistair&show_icons=true&theme=nord" width="400px">
