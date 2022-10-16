@@ -13,7 +13,7 @@ My name is Elmo, im a responsible and receptive student who seek position in Dat
 
 🌐 **Visit my other profiles**
 
-[![Kaggle](https://img.shields.io/badge/--kaggle?label=Kaggle&logo=kaggle&style=social)](https://public.tableau.com/app/profile/elmoallistair)
+[![Kaggle](https://img.shields.io/badge/--kaggle?label=Kaggle&logo=kaggle&style=social)](https://www.kaggle.com/elmoallistair)
 [![Tableau Public](https://img.shields.io/badge/--tableau?label=Tableau&logo=tableau&style=social)](https://public.tableau.com/app/profile/elmoallistair)
 [![HackerRank](https://img.shields.io/badge/--hackerrank?label=HackerRank&logo=hackerrank&style=social)](https://www.hackerrank.com/elmoallistair)
 
