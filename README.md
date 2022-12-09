@@ -1,7 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Recent Information Systems fresh graduate from Gunadarma University. Through my formal education and self-study. I have an interest and expertise in data including collecting, cleaning, analyzing, exploring, and visualizing raw data, combined with Python, SQL, Excel, and Tableau to gain useful insights for your company. I am currently seeking a data-related position as the first step in my career.
-
 ![GitHub Follow](https://img.shields.io/github/followers/elmoallistair.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/elmoallistair?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
